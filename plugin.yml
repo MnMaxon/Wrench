@@ -1,0 +1,7 @@
+name: Spawner Wrench
+version: 1.0
+main: me.MnMaxon.Wrench.Main
+depend: [Vault]
+commands:
+   Wrench:
+      description: This does something
